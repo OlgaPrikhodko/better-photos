@@ -7,6 +7,28 @@ $color-grey-dark: #555a5b;
 
 $ts: all 0.2s;
 
+// UTILITY CLASSES
+
+.u-italic {
+  font-style: italic;
+}
+
+.u-accent {
+  color: $color-accent;
+}
+
+.u-underline {
+  text-decoration: underline;
+}
+
+.u-bold {
+  font-weight: 500;
+}
+
+.u-bolder {
+  font-weight: 700;
+}
+
 // RESET
 *,
 *::before,
