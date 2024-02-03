@@ -23,4 +23,4 @@ Better Photos is a website made for photographers to show their photos and get c
 - **Use SASS preprocessor**: To utilise some features like reusable variables (for example for colors) and nesting styles.
 - **Use simple build process**: Optimizing process that will add vendor prefixes for supporting some of the older browser versions and minifify the CSS file for production. 
 
-- **Deployment**: Ready to be launched online [Link text Here](https://helga-better-photops-app.netlify.app/)
+- **Deployment**: Ready to be launched online [BeterMeApp](https://helga-better-photops-app.netlify.app/)
