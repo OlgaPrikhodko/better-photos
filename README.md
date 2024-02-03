@@ -11,7 +11,7 @@ Better Photos is a website made for photographers to show their photos and get c
 - grid of photos (trending or presentation)
 - educational 3 steps how to use website: upload photo -> get feedback -> improve skills
 
-The demo includes:
+## The demo includes:
 
 - **Implement Layout with Flexbox and CSS Grid**: Organizing the page layout using modern CSS techniques.
 - **Block Element Modifier (BEM) Syntax**: Implementing BEM methodology for structured and scalable CSS.
